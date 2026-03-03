@@ -1,2 +1,7 @@
+# Title: Youtube Block List
+# Description: Nukes the ability to reach all of YouTube.
+#
+#
+
 ^(.+[-.])?youtube\.com$
 ^(.+[-.])?googlevideo\.com$
