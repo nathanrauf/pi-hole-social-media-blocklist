@@ -1,0 +1,9 @@
+# Title: Reddit Block List
+# Description: Nukes the ability to reach all of Reddit.
+#
+#
+
+^(.+[-.])?reddit\.com$
+^(.+[-.])?redd\.it$
+^(.+[-.])?redditmedia\.com$
+^(.+[-.])?redditstatic\.com$
